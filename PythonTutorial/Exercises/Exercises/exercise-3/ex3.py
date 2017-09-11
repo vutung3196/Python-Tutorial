@@ -1,3 +1,5 @@
+#Exercise 3: Numbers and Math
+
 # It will print the number of chickens.
 print("I will now count my chickens:")
 
