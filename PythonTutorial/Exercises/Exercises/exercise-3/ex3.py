@@ -1,7 +1,10 @@
 # It will print the number of chickens.
 print("I will now count my chickens:")
 
+# There is 30 hens.
 print("Hens", 25 + 30 / 6)
+
+# There is 97 roosters
 print("Roosters", 100 - 25 * 3 % 4)
 
 print("Now I will count the eggs:")
