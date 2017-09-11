@@ -1,4 +1,4 @@
-# Study drill for exercise 5
+# Study drill for exercise 5.
 
 name = 'Zed A. Shaw'
 age = 35 # not a lie;
