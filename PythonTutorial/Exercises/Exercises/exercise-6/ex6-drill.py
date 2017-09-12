@@ -1,4 +1,4 @@
-# Study drill for exercise 6
+# Study drill for exercise 6x
 
 types_of_people = 10
 x = f"There are {types_of_people} types of people."
