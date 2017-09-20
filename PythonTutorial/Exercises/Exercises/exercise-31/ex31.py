@@ -1,6 +1,6 @@
 # Exercise 31: Making Decisions
 
-print("You enter a dark room with two doors. Do you go through door #1 or door #2?")
+print("You enter a dark room with two doors. Do you go through door #1, door #2 or door #3?")
 
 door = input("> ")
 
@@ -29,6 +29,18 @@ elif door == "2":
         print("Your body survives powered by a mind of jello. Good job!")
     else:
         print("The insanity rots your eyes into a pool of muck. Good job!")
+
+elif door == "3":
+    print("You enter a bedroom, and there is a photo on the desk. What do you do ?.")
+    print("1. Take it and see")
+    print("2. Don't look at it, and go another room")
+
+    horror = input("> ")
+    
+    if horror == "1":
+        print("A ghost suddenly appears. Run awayyyyy!")
+    else:
+        print("The ghost will appear on 3 minutes. Run awayyyy!")
 
 else:
     print("You stumble around and fall on a knife and die. Good job!")
