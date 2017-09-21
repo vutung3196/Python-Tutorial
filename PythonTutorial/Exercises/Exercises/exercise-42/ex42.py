@@ -78,3 +78,7 @@ crouse = Salmon()
 
 ## ??
 harry = Halibut()
+
+# Print information of objects.
+print(rover.name)
+print(frank.salary)
